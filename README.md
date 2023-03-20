@@ -1,2 +1,2 @@
 # pruebas-python
-Un repositorio para nuestras pruebas en Python
+Aquí es donde almacenaré todos mis códigos y test de Python.
